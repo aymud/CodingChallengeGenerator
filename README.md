@@ -8,7 +8,7 @@
 
 - [Overview](#1--overview)
 - [Development Philosophy](#2--development-philosophy)
-- [Folder Structure](#3-folder-structure)
+- [Folder Structure](#3--folder-structure)
 - [Running the Application Locally](#4--running-the-application-locally)
 - [Technology Stack](#5--technology-stack)
 
@@ -135,3 +135,9 @@ follow these steps to run the application locally.
     - SQLAlchemy Object Relational Mapper
     - Allows us to write Python classes that represent SQL (Structured Query Language) tables, 
       making it easier to interact with the database with the python wrapper instead of writing raw SQL queries ourselves.
+
+<figure align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6715e9f8-f81e-4f2b-81f6-811a1a03128d" />
+  <br>
+  <figcaption><em>Tech Stack Diagram</em></figcaption>
+</figure>
