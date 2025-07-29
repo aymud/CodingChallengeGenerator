@@ -136,8 +136,8 @@ follow these steps to run the application locally.
     - Allows us to write Python classes that represent SQL (Structured Query Language) tables, 
       making it easier to interact with the database with the python wrapper instead of writing raw SQL queries ourselves.
 
-<figure align="center">
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6715e9f8-f81e-4f2b-81f6-811a1a03128d" />
-  <br>
-  <figcaption><em>Tech Stack Diagram</em></figcaption>
-</figure>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6715e9f8-f81e-4f2b-81f6-811a1a03128d" width="500" height="500" alt="Tech Stack Diagram">
+</p>
+
+<p align="center"><em>Tech Stack Diagram</em></p>
