@@ -111,6 +111,7 @@ follow these steps to run the application locally.
 - An Integrated Development Environment (IDE)
   - PyCharm
   - Visual Studio Code
+  - _Note: May need to change the python interpreter to the one in the local project._
 - Clerk Account
   - Sign up for an account at [Clerk](https://clerk.com/).
   - Create a new application in Clerk and obtain your API keys.
