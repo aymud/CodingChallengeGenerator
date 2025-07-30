@@ -119,7 +119,7 @@ follow these steps to run the application locally.
   - Sign up for an account at [OpenAI](https://platform.openai.com/).
   - Obtain your API key from the OpenAI dashboard.
   - Set up the environment variables in the `.env` file in the backend directory with your OpenAI API key.
-  - _Note: You need to set up a payment method to add credit balance to use the API._
+  - _Note: You need to set up a payment method because the API is pay as you go._
 
 </details>
 
